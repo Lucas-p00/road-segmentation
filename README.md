@@ -15,17 +15,17 @@ Foi realizada a análise de todo o dataset para verificar se o mesmo estava em c
 - Detecção de duplicatas: Foi realizada uma busca minuciosa por duplicatas que pudessem interferir no desempenho do modelo.
 
 #### Imagens do dataset
-![Grafico](imagens/img_&_mask_1.png)
+![Grafico](images/img_&_mask_1.png)
 
 ## U-Net
 
 #### Estrutura da rede
 
-![Estrutura da CNN](imagens/unet_estrutura.png)
+![Estrutura da CNN](images/unet_estrutura.png)
 
 #### Gráfico de perda e acurácia
 
-![Grafico](imagens/grafico.png)
+![Grafico](images/grafico.png)
 
 ## Resultados
 
