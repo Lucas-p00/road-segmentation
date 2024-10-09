@@ -1,13 +1,15 @@
-# Projeto Final
+# Segmentação de Estradas e Ruas
 
-O projeto final foi dividido em duas etapas:
+Este trabalho foi desenvolvido durante o Bootcamp de Machine Learning oferecido pela Avanti.
+O projeto foi dividido em duas etapas:
 
 - Análise do dataset
 - Implementação da CNN
 
 ## Análise do dataset
 
-Foi realizada a análise de todo o dataset para verificar se o mesmo estava em condições para ser trabalhado. A análise em questão envolveu:
+O dataset utilizado foi o [DeepGlobe Road Extraction](https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset) 
+do Kaggle e foi realizada a análise completa para verificar se o mesmo estava em condições para ser trabalhado. A análise em questão envolveu:
 
 - Verificação da integridade dos arquivos: Verificando se todas as imagens listadas estão presentes nos arquivos.
 - Consistência dos metadados: Análise detalhada para garantir que os metadados estavam precisos e consistentes.
